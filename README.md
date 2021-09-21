@@ -28,4 +28,9 @@ cordova plugin add marker-clusterer
 
 ## How to use it?
 
+`MarkerCLusterer` is linked to the `googlemapls` Java Script plugin, see
+the [googlemap official
+documentation](https://developers.google.com/maps/documentation/javascript/overview)
+for more details.
+
 [TODO]
